@@ -22,7 +22,7 @@ I was in charge of the final `README.md` document. My teammates provided the raw
 I was solely responsible for creating the 30-second introduction video, ensuring it clearly demonstrated the core features of our Implicit Treap within the strict time limit.
 
 * **Segment Distribution & Logic:** I broke down the video into logical segments: Initializing, Split/Merge (Insert), and Range Query. 
-* **Editing Techniques:** I used freeze-frames (定格) and text highlights in the editing software to explicitly point out how the `max`, `priority`, and `size` attributes function during the animation, making the complex DSA logic easy to understand for the audience.
+* **Editing Techniques:** I used freeze-frames and captions in the editing software to explicitly point out how the `max`, `priority`, and `size` attributes function during the animation, making the complex DSA logic easy to understand for the audience.
 
 > **[Proof of Contribution 2: Media Production]**  
 > * Link to the 30-Second Video: [https://drive.google.com/file/d/1epbIH1JJ3P_yIflj8J5PMSRZCLUHtnwl/view?usp=sharing]
