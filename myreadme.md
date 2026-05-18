@@ -1,3 +1,4 @@
+
 # Personal Documentation: Documentation & Media Production
 
 **Name:** Jing-Hao Hung (洪敬皓)  
@@ -14,9 +15,8 @@ I was in charge of the final `README.md` document. My teammates provided the raw
 * **Technical Formatting:** I formatted the raw JSON examples and highlighted the rendering workarounds (e.g., `isVirtual` and `isEmpty` nodes) using proper Markdown syntax so that the TAs could easily understand our engineering efforts.
 
 > **[Proof of Contribution 1: Documentation]**  
-> * Link to the final README I compiled: [貼上你們專案的 GitHub 網址]
-> * *(選用：可以在這裡放一張你用 VS Code 或 GitHub 編輯 Markdown 檔案的截圖)*  
-> `![README Editing](放截圖連結)`
+> * Link to the final README I compiled: [(https://github.com/brownhung-hub/Treap-visualizer)]
+<img width="1378" height="550" alt="Screenshot 2026-05-18 at 1 25 31 PM" src="https://github.com/user-attachments/assets/4350b86f-ccfe-4416-88f5-0ea271d2251b" />
 
 ## 📌 3. 30-Second Introduction Video Production
 I was solely responsible for creating the 30-second introduction video, ensuring it clearly demonstrated the core features of our Implicit Treap within the strict time limit.
@@ -25,6 +25,5 @@ I was solely responsible for creating the 30-second introduction video, ensuring
 * **Editing Techniques:** I used freeze-frames (定格) and text highlights in the editing software to explicitly point out how the `max`, `priority`, and `size` attributes function during the animation, making the complex DSA logic easy to understand for the audience.
 
 > **[Proof of Contribution 2: Media Production]**  
-> * Link to the 30-Second Video: [貼上 YouTube 或雲端硬碟網址]
-> * *(必放：放一張你用 CapCut 或剪輯軟體時，下面有很多時間軸、字幕軌道的截圖，這是最強的證據！)*  
-> `![Video Editing Timeline](放截圖連結)`
+> * Link to the 30-Second Video: [https://drive.google.com/file/d/1epbIH1JJ3P_yIflj8J5PMSRZCLUHtnwl/view?usp=sharing]
+<img width="1221" height="738" alt="Screenshot 2026-05-18 at 1 26 05 PM" src="https://github.com/user-attachments/assets/3e9df153-6e1f-4fba-b452-a77a0a5287fb" />
