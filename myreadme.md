@@ -2,7 +2,7 @@
 # Personal Documentation: Documentation & Media Production
 
 **Name:** Jing-Hao Hung (洪敬皓)  
-**Role:** Technical Writer & Media Editor  
+**Role:** PM(more a Technical Writer & Media Editor)  
 **Project:** Implicit Treap Visualization Tool  
 
 ## 📌 1. Project Task & Role Definition
