@@ -1,3 +1,4 @@
+
 # Implicit Treap Visualization Tool
 
 ## 📖 Project Overview
@@ -6,8 +7,7 @@ This project is an interactive visualization tool for an **Implicit Treap** (a T
 ---
 
 ## 🚀 How to Use the Program
-*(Insert an overall screenshot of your UI here)*
-> `![UI Overview](docs/ui_screenshot.png)`
+<img width="1403" height="703" alt="Screenshot 2026-05-18 at 12 44 58 PM" src="https://github.com/user-attachments/assets/4fe49895-fc33-4c95-bbfc-85b66e6f31e3" />
 
 The user interface is designed to be intuitive. Users interact with the Treap using 1-based positions, mimicking standard array operations but with $O(\log n)$ efficiency.
 
@@ -25,8 +25,8 @@ The user interface is designed to be intuitive. Users interact with the Treap us
 ---
 
 ## 🧠 How the DSA Works (Algorithm Logic)
-*(Insert a diagram or screenshot showing a node's structure with Val, Priority, and Max)*
-> `![Node Structure](docs/node_structure.png)`
+
+<img width="507" height="350" alt="Screenshot 2026-05-18 at 12 48 35 PM" src="https://github.com/user-attachments/assets/8dc2d980-079a-4c70-8f6e-f5b428807507" />
 
 Unlike a standard Binary Search Tree (BST) that sorts by values, an **Implicit Treap** uses the **In-order Traversal** to represent the sequence of the array. The value of a node does not dictate its position in the tree.
 
